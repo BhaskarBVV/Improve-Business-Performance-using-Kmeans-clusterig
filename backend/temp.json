@@ -1,0 +1,356 @@
+{
+    "res": {
+        "items": [
+            {
+                "access": [
+                    {
+                        "lat": 28.47795,
+                        "lng": 77.50654
+                    }
+                ],
+                "address": {
+                    "city": "Greater Noida",
+                    "countryCode": "IND",
+                    "countryName": "India",
+                    "county": "Gautam Buddha Nagar",
+                    "district": "Beta 1",
+                    "label": "A231, 3rd Cross Street, Gulmohar Estate-Pocket A, Beta 1, Greater Noida 201308, India",
+                    "postalCode": "201308",
+                    "state": "Uttar Pradesh",
+                    "stateCode": "UP",
+                    "street": "3rd Cross Street",
+                    "subdistrict": "Gulmohar Estate-Pocket A"
+                },
+                "categories": [
+                    {
+                        "id": "700-7200-0324",
+                        "name": "Apartment/Flat Rental",
+                        "primary": true
+                    }
+                ],
+                "distance": 1931,
+                "id": "here:pds:place:356ttp45-f9a92e3327594183b814dc6f6033917b",
+                "language": "en",
+                "ontologyId": "here:cm:ontology:apartment_rental_flat_rental",
+                "position": {
+                    "lat": 28.47792,
+                    "lng": 77.50658
+                },
+                "resultType": "place",
+                "title": "A231"
+            },
+            {
+                "access": [
+                    {
+                        "lat": 28.47791,
+                        "lng": 77.50776
+                    }
+                ],
+                "address": {
+                    "city": "Greater Noida",
+                    "countryCode": "IND",
+                    "countryName": "India",
+                    "county": "Gautam Buddha Nagar",
+                    "district": "Beta 1",
+                    "label": "Ajanta Apartments, Gulmohar Estate-Pocket A, Beta 1, Greater Noida 201308, India",
+                    "postalCode": "201308",
+                    "state": "Uttar Pradesh",
+                    "stateCode": "UP",
+                    "subdistrict": "Gulmohar Estate-Pocket A"
+                },
+                "categories": [
+                    {
+                        "id": "700-7200-0324",
+                        "name": "Apartment/Flat Rental",
+                        "primary": true
+                    }
+                ],
+                "distance": 2058,
+                "id": "here:pds:place:356ttp45-d7dabfa4d39a49af971a9a08c4512b86",
+                "language": "en",
+                "ontologyId": "here:cm:ontology:apartment_rental_flat_rental",
+                "position": {
+                    "lat": 28.47797,
+                    "lng": 77.50791
+                },
+                "resultType": "place",
+                "title": "Ajanta Apartments"
+            },
+            {
+                "access": [
+                    {
+                        "lat": 28.44718,
+                        "lng": 77.46602
+                    }
+                ],
+                "address": {
+                    "city": "Noida",
+                    "countryCode": "IND",
+                    "countryName": "India",
+                    "county": "Gautam Buddha Nagar",
+                    "district": "Sector 151",
+                    "label": "Jaypee Greens Aman, Aurangabad-Aman Jaypee Greens, Sector 151, Noida 201310, India",
+                    "postalCode": "201310",
+                    "state": "Uttar Pradesh",
+                    "stateCode": "UP",
+                    "subdistrict": "Aurangabad-Aman Jaypee Greens"
+                },
+                "categories": [
+                    {
+                        "id": "700-7200-0324",
+                        "name": "Apartment/Flat Rental",
+                        "primary": true
+                    }
+                ],
+                "distance": 3588,
+                "id": "here:pds:place:356ttp1f-b55b9ccc78b9ef96f6490b4b6d0a1a36",
+                "language": "en",
+                "ontologyId": "here:cm:ontology:apartment_rental_flat_rental",
+                "position": {
+                    "lat": 28.44701,
+                    "lng": 77.46601
+                },
+                "resultType": "place",
+                "title": "Jaypee Greens Aman"
+            },
+            {
+                "access": [
+                    {
+                        "lat": 28.51294,
+                        "lng": 77.48469
+                    }
+                ],
+                "address": {
+                    "city": "Greater Noida",
+                    "countryCode": "IND",
+                    "countryName": "India",
+                    "county": "Gautam Buddha Nagar",
+                    "district": "Surajpur",
+                    "label": "Shiv Shakti Guest House, Surajpur Dadri Road, Surajpur, Greater Noida 201306, India",
+                    "postalCode": "201306",
+                    "state": "Uttar Pradesh",
+                    "stateCode": "UP",
+                    "street": "Surajpur Dadri Road"
+                },
+                "categories": [
+                    {
+                        "id": "700-7200-0324",
+                        "name": "Apartment/Flat Rental",
+                        "primary": true
+                    }
+                ],
+                "distance": 4438,
+                "id": "here:pds:place:356ttp45-f45844b8046f474ebfa2e870bf84e91d",
+                "language": "en",
+                "ontologyId": "here:cm:ontology:apartment_rental_flat_rental",
+                "position": {
+                    "lat": 28.51293,
+                    "lng": 77.48469
+                },
+                "resultType": "place",
+                "title": "Shiv Shakti Guest House"
+            },
+            {
+                "access": [
+                    {
+                        "lat": 28.4726,
+                        "lng": 77.53789
+                    }
+                ],
+                "address": {
+                    "city": "Greater Noida",
+                    "countryCode": "IND",
+                    "countryName": "India",
+                    "county": "Gautam Buddha Nagar",
+                    "district": "Sector Pi 1 & 2",
+                    "label": "Imperia H2O, Village Bironda Chakrasenpur, Sector Pi 1 & 2, Greater Noida 201308, India",
+                    "postalCode": "201308",
+                    "state": "Uttar Pradesh",
+                    "stateCode": "UP",
+                    "subdistrict": "Village Bironda Chakrasenpur"
+                },
+                "categories": [
+                    {
+                        "id": "700-7200-0324",
+                        "name": "Apartment/Flat Rental",
+                        "primary": true
+                    }
+                ],
+                "distance": 4931,
+                "id": "here:pds:place:356ttp1u-a264591c33ca41868051391bf2606b7c",
+                "language": "en",
+                "ontologyId": "here:cm:ontology:apartment_rental_flat_rental",
+                "position": {
+                    "lat": 28.47262,
+                    "lng": 77.53804
+                },
+                "resultType": "place",
+                "title": "Imperia H2O"
+            },
+            {
+                "access": [
+                    {
+                        "lat": 28.51356,
+                        "lng": 77.52627
+                    }
+                ],
+                "address": {
+                    "city": "Greater Noida",
+                    "countryCode": "IND",
+                    "countryName": "India",
+                    "county": "Gautam Buddha Nagar",
+                    "district": "Upsidc Surajpur Site",
+                    "label": "Paramount Golfforeste, Upsidc Surajpur Site, Greater Noida 201311, India",
+                    "postalCode": "201311",
+                    "state": "Uttar Pradesh",
+                    "stateCode": "UP"
+                },
+                "categories": [
+                    {
+                        "id": "700-7200-0324",
+                        "name": "Apartment/Flat Rental",
+                        "primary": true
+                    },
+                    {
+                        "id": "700-7200-0344",
+                        "name": "Property Management"
+                    }
+                ],
+                "contacts": [
+                    {
+                        "phone": [
+                            {
+                                "value": "+911204613000"
+                            }
+                        ]
+                    }
+                ],
+                "distance": 5876,
+                "id": "here:pds:place:356ttp4h-ca5a674a10d748edbc1f333100cd81f2",
+                "language": "en-GB",
+                "ontologyId": "here:cm:ontology:apartment_rental_flat_rental",
+                "openingHours": [
+                    {
+                        "categories": [
+                            {
+                                "id": "700-7200-0344"
+                            }
+                        ],
+                        "isOpen": false,
+                        "structured": [
+                            {
+                                "duration": "PT08H00M",
+                                "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR",
+                                "start": "T090000"
+                            }
+                        ],
+                        "text": [
+                            "Mon-Fri: 09:00 - 17:00"
+                        ]
+                    }
+                ],
+                "position": {
+                    "lat": 28.51362,
+                    "lng": 77.5262
+                },
+                "resultType": "place",
+                "title": "Paramount Golfforeste"
+            },
+            {
+                "access": [
+                    {
+                        "lat": 28.43229,
+                        "lng": 77.54082
+                    }
+                ],
+                "address": {
+                    "city": "Greater Noida",
+                    "countryCode": "IND",
+                    "countryName": "India",
+                    "county": "Gautam Buddha Nagar",
+                    "district": "Surajpur Site 5",
+                    "label": "Novena Green Kasna, Road No 28, Block N, Surajpur Site 5, Greater Noida 203202, India",
+                    "postalCode": "203202",
+                    "state": "Uttar Pradesh",
+                    "stateCode": "UP",
+                    "street": "Road No 28",
+                    "subdistrict": "Block N"
+                },
+                "categories": [
+                    {
+                        "id": "700-7200-0324",
+                        "name": "Apartment/Flat Rental",
+                        "primary": true
+                    }
+                ],
+                "distance": 6930,
+                "id": "here:pds:place:356ttp1s-29d43a9065b242bfb123eba88319203a",
+                "language": "en",
+                "ontologyId": "here:cm:ontology:apartment_rental_flat_rental",
+                "position": {
+                    "lat": 28.43196,
+                    "lng": 77.54085
+                },
+                "resultType": "place",
+                "title": "Novena Green Kasna"
+            },
+            {
+                "access": [
+                    {
+                        "lat": 28.49731,
+                        "lng": 77.39649
+                    }
+                ],
+                "address": {
+                    "city": "Noida",
+                    "countryCode": "IND",
+                    "countryName": "India",
+                    "county": "Gautam Buddha Nagar",
+                    "district": "Bajidpur",
+                    "label": "Apso Services Private Limited, Sector 135-Duplex House-Block HD, Bajidpur, Noida 201304, India",
+                    "postalCode": "201304",
+                    "state": "Uttar Pradesh",
+                    "stateCode": "UP",
+                    "subdistrict": "Sector 135-Duplex House-Block HD"
+                },
+                "categories": [
+                    {
+                        "id": "700-7200-0324",
+                        "name": "Apartment/Flat Rental",
+                        "primary": true
+                    }
+                ],
+                "distance": 9291,
+                "id": "here:pds:place:356ttp41-acd2d1cfde95618d0736faf1ac984eb5",
+                "language": "en",
+                "ontologyId": "here:cm:ontology:apartment_rental_flat_rental",
+                "position": {
+                    "lat": 28.49732,
+                    "lng": 77.39662
+                },
+                "resultType": "place",
+                "title": "Apso Services Private Limited"
+            }
+        ]
+    }
+}
+
+{
+    "items": [
+        {
+            "access": [
+                {
+                    "lat": 28.47795,
+                    "lng": 77.50654
+                }
+            ],
+            "address.postalCode": "201308",
+            "distance": 1931,
+            "id": "here:pds:place:356ttp45-f9a92e3327594183b814dc6f6033917b",
+            "label": "A231, 3rd Cross Street, Gulmohar Estate-Pocket A, Beta 1, Greater Noida 201308, India",
+            "position.lat": 28.47792,
+            "position.lng": 77.50658,
+            "title": "A231"
+        }
+    ]
+}
