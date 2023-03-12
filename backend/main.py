@@ -91,7 +91,7 @@ def map_clusters(position_latitude, position_longitude):
         'Gyms': GymList
     }
 
-    # # Run K-means clustering on dataframe
+    #Run K-means clustering on dataframe
     kclusters = 3
 
     data = [[lat for lat in df_final['position.lat']],
@@ -100,7 +100,7 @@ def map_clusters(position_latitude, position_longitude):
             [ds for ds in df_final['Department Stores']],
             [gym for gym in df_final['Gyms']]]
 
-    print(data)
+    # print(data)
 
     # Converting the 2d Lists into dataframe (each row for contains data for particular location)
     finalList = []
@@ -110,7 +110,7 @@ def map_clusters(position_latitude, position_longitude):
 
     df = pd.DataFrame(finalList, columns=[
                       'position.lat', 'position.lng', 'Cafes', 'Department Stores', 'Gyms'])
-    print(df)
+    # print(df)
 
     # applying kmeans clustering
     kmeans = KMeans(n_clusters=kclusters, random_state=0).fit(df)
